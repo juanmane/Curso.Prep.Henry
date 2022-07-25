@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:beige;
+    padding: 50px;
+    border: black inset 10px;
+}
+#spanId{
+    font-size: 18px;
+    margin-top: 50px;
+}
